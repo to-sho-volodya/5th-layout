@@ -1,0 +1,21 @@
+.section.section-about.section-about-alt{
+  padding: 32px 0 20px;
+  background-color: #f2f2f2;
+  .section-content{
+    padding-top: 91px;
+    padding-left: 0px;
+    .section-title{
+      margin-top: 13px;
+      &:after{
+        margin-top: 28px;
+      }
+    }
+    .section-intro p{
+      margin: 0;
+    }
+  }
+  .section-image{
+    padding: 0;
+
+  }
+}

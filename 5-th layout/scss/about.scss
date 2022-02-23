@@ -1,0 +1,42 @@
+@import "section";
+.section-about{
+  padding: 67px 0 19px;
+  .container{
+    .section-image{
+      padding: 2px 0px 0px 20px;
+    }
+    .section-content{
+      padding-top: 47px;
+      padding-left: 14px;
+      .section-title{word-spacing: -3px;
+        letter-spacing: 1px;
+      &:after{
+        margin-top: 25px;
+        margin-left: 1px;
+      }
+      }
+      .section-body{
+        .section-intro{
+          width: 480px;
+        }
+
+        .list-features{
+          list-style: none;
+          color: #1b1b1b;
+          padding-top: 12px;
+          li{
+            padding: 5px 0 6px;
+            .ico{
+              margin-right: 5px;
+            }
+            .ico-mouse, .ico-bolt{padding-left: 4px;
+              margin-right: 9px;
+            }
+            .ico-cup, .ico-guage{padding-left: 1px; margin-right: 9px;}
+          }
+        }
+
+      }
+    }
+  }
+}

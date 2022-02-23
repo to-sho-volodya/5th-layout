@@ -1,0 +1,132 @@
+  /* ================================================================ *\
+      #Responsive
+  \* ================================================================ */
+@media only screen and (max-width: 767px) {
+  /* ================================================================ *\
+      #Header
+  \* ================================================================ */
+
+  .nav { margin-top: 0; text-align: center; }
+  .nav > li { border-bottom: 1px solid rgba(255, 255, 255, 0.2); }
+  .nav > li > a { padding: 11px 0 5px;  }
+  .nav > li > a:after { margin-top: 6px;  }
+
+  .navbar > .container .navbar-brand { margin: 17px 0 0 15px; }
+
+  .jumbotron-actions { margin-top: 20px; float: none; text-align: center; }
+  .jumbotron-actions .btn,
+  .jumbotron-actions .btn + .btn { margin: 10px; }
+
+  .jumbotron-form-contacts .form-actions { text-align: center; }
+
+  /* ================================================================ *\
+     #About
+  \* ================================================================ */
+  .section-about{
+    .section-image{
+      display: none;
+    }
+  }
+
+  /* ================================================================ *\
+     #About-Alt
+  \* ================================================================ */
+  .section-about-alt{
+    .section-image{
+      display: none;
+    }
+    .section-intro{
+      max-width: 354px;
+    }
+  }
+
+  /* ================================================================ *\
+      #Reviews
+  \* ================================================================ */
+
+  .reviews { padding: 40px 20px 0; }
+  .reviews-entry { text-align: center; }
+  .reviews-author-avatar { display: block; margin: 0 auto 20px;  }
+  .reviews-author-name { display: block; text-align: center; }
+
+  /* ================================================================ *\
+		#Testimonials
+  \* ================================================================ */
+
+  .testimonial { padding: 40px 20px 0; }
+  .testimonial-entry { text-align: center; }
+  .testimoinal-author-avatar { display: block; margin: 0 auto 20px;  }
+  .testimonial-author-name { display: block; text-align: center; }
+
+  /* ================================================================ *\
+      #Contacts
+  \* ================================================================ */
+
+  .contacts .ico { margin-bottom: 10px; }
+  .contacts p { margin-bottom: 35px; }
+
+  .form-contacts-outer { height: 500px; }
+  .form-contacts { padding: 30px; }
+  .form-contacts .form-actions { text-align: center; }
+}
+
+@media only screen and (max-width: 991px) {
+
+  /* ================================================================ *\
+      #Basic
+  \* ================================================================ */
+
+  h1 { font-size: 36px; }
+  h2 { font-size: 24px; }
+  h3 { font-size: 18px; }
+
+  /* ================================================================ *\
+      #Header
+  \* ================================================================ */
+
+  .jumbotron h1 {font-size: 36px;}
+  .jumbotron-image { display: block; height: auto; padding-top: 50px; text-align: center; }
+  .jumbotron-image img { height: auto; max-width: 100%; }
+
+  /* ================================================================ *\
+		#Section
+  \* ================================================================ */
+
+  .section-image { text-align: center; }
+
+  /* ================================================================ *\
+      #Features
+  \* ================================================================ */
+
+  .feature {padding-bottom: 40px;}
+
+  /* ================================================================ *\
+		#Testimonials
+  \* ================================================================ */
+
+  .section-testimonials { height: auto; }
+
+  .slider-testimoinals { padding: 30px 0; }
+  .slider-testimoinals .bx-controls { margin-top: 30px; }
+
+  .testimonial { padding: 20px 40px; }
+
+  /* ================================================================ *\
+      #Plans
+  \* ================================================================ */
+
+  .plan { margin-bottom: 30px; }
+
+  }
+
+@media only screen and (max-width: 1199px) {
+  /* ================================================================ *\
+      #Callout
+  \* ================================================================ */
+  .callout-title,
+  .callout-actions { float: none; text-align: center; }
+  .callout-actions { margin-top: 20px; }
+  .callout-actions .btn,
+  .callout-actions .btn + .btn { margin: 10px; }
+
+}

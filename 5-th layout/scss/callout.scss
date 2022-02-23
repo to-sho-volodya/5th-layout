@@ -1,0 +1,33 @@
+/* ================================================================ *\
+	#Callout
+\* ================================================================ */
+.callout {
+  padding: 43px 0 58px;
+  background: #15141a;
+  overflow: hidden;
+
+  .callout-title {
+    float: left;
+    color: #fff;
+    font-weight: 300;
+    letter-spacing: 1px;
+    word-spacing: -3px;
+  }
+
+  .callout-title strong {
+    font-weight: 600;
+  }
+
+  .callout-actions {
+    float: right;
+    margin-top: 17px;
+    font-size: 0;
+    .btn{
+      color: white;
+      text-transform: uppercase;
+    }
+    .btn + .btn {
+      margin-left: 20px;
+    }
+  }
+}
