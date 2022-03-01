@@ -1,26 +1,13 @@
 /* ================================================================ *\
 	#Pricing
 \* ================================================================ */
-.section-pricing { text-align: center; padding: 51px 0 30px; height: 780px }
+.section-pricing { text-align: center; padding: 51px 0 30px;}
 .section-pricing .section-title:after { margin: 30px auto 0; }
 
-.plans { padding: 45px 0 30px;
-  @media (min-width: 992px){
-  .plan-container {
-    width: 25%;}}
-    @media (min-width: 992px){
-    .plan-container {
-      float: left;}}
-  @media (min-width: 768px){
-  .plan-container {
-    width: 50%; float: left
-  }}
-.plan-container{    position: relative;
-  min-height: 1px; width: 25%;
-  padding-left: 15px;
-  padding-right: 15px;}
+.plans { padding: 45px 0 30px;}
+
   .plan-container_1{padding-left: 0px}
-}
+
 
 .plan { border-radius: 2px; border: 1px solid #e0e0e0;}
 .plan_1{
