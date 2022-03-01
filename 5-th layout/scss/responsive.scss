@@ -130,3 +130,9 @@
   .callout-actions .btn + .btn { margin: 10px; }
 
 }
+  @media only screen and (max-width: 1300px) {
+    /* ================================================================ *\
+        #Header
+    \* ================================================================ */
+    .jumbotron-image img{margin: 0;}
+  }
