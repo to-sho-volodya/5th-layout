@@ -2,19 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bea571f8-90b2-45a2-a87c-e2c4e84b58c8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/5-th layout/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/5-th layout/css/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-th layout/css/about.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/5-th layout/css/about.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-th layout/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/5-th layout/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-th layout/css/features.css" beforeDir="false" afterPath="$PROJECT_DIR$/5-th layout/css/features.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-th layout/css/features.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/5-th layout/css/features.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-th layout/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/5-th layout/css/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-th layout/css/header.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/5-th layout/css/header.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/5-th layout/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/5-th layout/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/5-th layout/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/5-th layout/css/style.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/5-th layout/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/5-th layout/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-th layout/scss/about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/5-th layout/scss/about.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-th layout/scss/features.scss" beforeDir="false" afterPath="$PROJECT_DIR$/5-th layout/scss/features.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-th layout/scss/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/5-th layout/scss/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-th layout/scss/_callout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/5-th layout/scss/_callout.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-th layout/scss/_contacts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/5-th layout/scss/_contacts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-th layout/scss/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/5-th layout/scss/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-th layout/scss/_pricing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/5-th layout/scss/_pricing.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-th layout/scss/_responsive.scss" beforeDir="false" afterPath="$PROJECT_DIR$/5-th layout/scss/_responsive.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-th layout/scss/_reviews.scss" beforeDir="false" afterPath="$PROJECT_DIR$/5-th layout/scss/_reviews.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +23,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/5-th layout" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="n8n6382v" />
@@ -77,7 +75,11 @@
       <workItem from="1645524781946" duration="41922000" />
       <workItem from="1645646974092" duration="8761000" />
       <workItem from="1646072556641" duration="4803000" />
-      <workItem from="1646119477009" duration="10761000" />
+      <workItem from="1646119477009" duration="14148000" />
+      <workItem from="1646211567390" duration="27828000" />
+      <workItem from="1646309918960" duration="599000" />
+      <workItem from="1646632662836" duration="8000" />
+      <workItem from="1646897735176" duration="6195000" />
     </task>
     <servers />
   </component>

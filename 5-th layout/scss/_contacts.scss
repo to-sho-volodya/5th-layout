@@ -1,0 +1,92 @@
+/* ================================================================ *\
+	#Contacts
+\* ================================================================ */
+
+.section-contacts {
+  padding: 50px 0 0;
+  background: #ededed;
+  text-align: center;
+
+  .section-title:after {
+    margin: 30px auto;
+  }
+}
+
+.contacts {
+  padding: 24px 0 59px;
+
+  .icon {
+    margin-bottom: 26px;
+  }
+
+  .icon-envelope {
+    margin-bottom: 30px;
+    padding: 4px 1px 0px 0px;
+  }
+
+  a {
+    color: #999;
+  }
+
+  a:hover {
+    color: #008ed6;
+    text-decoration: none;
+  }
+}
+
+.form-contacts-outer {
+  position: relative;
+  z-index: 50;
+  height: 296px;
+
+  .form-contacts {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    padding: 60px 70px 40px 51px;
+    background: #15141a;
+
+    .form-group {
+      margin-bottom: 20px;
+    }
+
+    .form-control {
+      background: transparent;
+      border-color: rgba(255, 255, 255, 0.2);
+      color: #d3d3d3;
+      height: 50px;
+      padding: 0 10px 0 17px;
+      text-transform: uppercase;
+    }
+
+    #contact-message {
+      height: 190px;
+      padding: 13px 10px 0 16px;
+    }
+
+    .form-control:focus {
+      border-color: #fff;
+      color: #fff;
+    }
+
+    .has-error .form-controls > * {
+      border-color: #f00;
+    }
+  }
+}
+
+.form-contacts .form-actions {
+  text-align: right;
+
+  .btn-primary {
+    margin-right: 15px;
+    padding: 15px 33px 13px 33px;
+  }
+}
+
+iframe {
+  height: 370px;
+  width: 100%;
+  display: block
+}

@@ -3,16 +3,19 @@ $(document).ready(function () {
 
     // autoplay: true,
     // autoplaySpeed: 10000,
-    infinite: false,
+    infinite: true,
     arrows: false,
     dots:true,
-    // responsive:[
-    //   {
-    //     breakpoint: 850,
-    //     settings: {
-    //       slidesToShow: 2
-    //     }
-    //   },
+    slidesToShow: 2,
+    slidesToScroll: 2,
+    responsive:[
+      {
+        breakpoint: 991,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
+        }
+      },]
     //   {
     //     breakpoint: 600,
     //     settings: {

@@ -1,0 +1,90 @@
+/* ================================================================ *\
+	#Pricing
+\* ================================================================ */
+.section-pricing {
+  text-align: center;
+  padding: 51px 0 35px;
+}
+
+.section-pricing .section-title:after {
+  margin: 30px auto 0;
+}
+
+.plans {
+  padding: 39px 0 26px;
+}
+
+.plan {
+  border-radius: 2px;
+  border: 1px solid #e0e0e0;
+}
+
+.plan-head {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.plan-title {
+  margin-bottom: 0;
+  padding: 5px 0 17px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.plan:hover .plan-title {
+  color: #008ed6;
+  border-color: #008ed6;
+}
+
+.plan-price {
+  padding: 35px 6px 36px 0;
+}
+
+.plan:hover .plan-price {
+  background: #008ed6;
+  color: #fff;
+}
+
+.plan-price small {
+  line-height: 1;
+  display: block;
+  font-size: 18px;
+  margin-top: 5px;
+}
+
+.plan:hover .plan-price small {
+  color: #fff;
+}
+
+.plan-price span {
+  font-size: 56px;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: 2px;
+  color: #1a1a1a;
+}
+
+.plan:hover .plan-price span {
+  color: #fff;
+}
+
+.plan-price em {
+  vertical-align: super;
+  font-size: 28px;
+  font-style: normal;
+}
+
+.plan-body {
+  padding: 45px 30px 29px;
+}
+
+.plan-entry {
+  margin-bottom: 40px;
+}
+
+.plan-actions {
+  .btn {
+    padding: 14px 40px;
+  }
+
+}
